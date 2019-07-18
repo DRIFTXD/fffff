@@ -1,0 +1,6 @@
+owner=138005466235011082
+prefix=-
+game=DRIFTXD | -play
+stayinchannel=true
+songinstatus=false
+token=NTk5OTE4NjU1Nzk4NTA5NTY5.XTDrSQ.pYq5huorXKAebjyi1-cGcLzfQWk
